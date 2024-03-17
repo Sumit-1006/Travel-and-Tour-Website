@@ -16,4 +16,4 @@ function TripData(props){
     )
 }
 
-export default TripData;
+export default TripData; 

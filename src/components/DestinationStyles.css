@@ -4,7 +4,12 @@
 }
 .destination h1{
     font-size: 3rem;
+    text-align: center;
     
+}
+.destination p {
+    
+    font-size: 1.2rem;
 }
 .first-des{
     display: flex;
